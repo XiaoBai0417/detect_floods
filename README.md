@@ -1,4 +1,4 @@
-# Example Code for AI SAR-Based Flood Monitoring Using Google Earth Engine
+# Demo for AI SAR-Based Flood Monitoring Using Google Earth Engine
 
 This repository contains the example code accompanying our research on flood monitoring through synthetic aperture radar (SAR) data and Google Earth Engine (GEE). The provided code demonstrates the extraction of relevant satellite data, preprocessing steps, and the application of AI-based methods for detecting and monitoring flood events.
 
